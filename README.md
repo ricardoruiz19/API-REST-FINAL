@@ -15,14 +15,19 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+  ** SQLite (Local)
+  ** Postgres (Heroku)
 
 * Database initialization
 
 * How to run the test suite
+  ** With the URL provided
 
 * Services (job queues, cache servers, search engines, etc.)
-
+  ** POST, GET, DELETE, UPDATE
+ 
 * Deployment instructions
+  
 
 * ...
 # API-REST-FINAL
